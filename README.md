@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImNotEcy)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotEcy)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Xiaro&amp;include_all_commits=true&amp;count_private=true&amp;title_color=CC88BB&amp;text_color=885566&amp;bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5" style="max-width: 100%;"></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotEcy)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @ImNotEcy
 - bad temper，maybe?
 - Chinese
